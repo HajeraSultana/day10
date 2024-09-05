@@ -7,4 +7,4 @@ total_tip = billamount * tip_percentage
 total_bill = billamount + total_tip
 finalamount = total_bill/people
 eachshare = round(finalamount,2)
-print("each person should pay",eachshare)
+print("Each person should pay:",eachshare)
